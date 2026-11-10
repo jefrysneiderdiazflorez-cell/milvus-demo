@@ -90,8 +90,8 @@ Se insertaron 6 películas
 
 Te recomiendo:
   Deadpool  (similitud: 0.97)
-  John Wick  (similitud: 0.95)
-  Mad Max  (similitud: 0.90)
+  John Wick  (similitud: 0.97)
+  Mad Max  (similitud: 0.93)
 ```
 
 ## Idea clave
